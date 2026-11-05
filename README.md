@@ -36,7 +36,7 @@
 
 | Project | Stack | What I built |
 |---|---|---|
-| [CabinCrewCareer](https://github.com/Hyzmyn/CabinCrewCareer) – flight attendant recruitment (graduation project) | ASP.NET Core 8, Clean Architecture, CQRS, EF Core, SQL Server | Owned the online exam module: tests, questions and sessions APIs; Excel question import; audio on Firebase/Cloudinary; speaking scoring; re-marking requests; round progression with benchmark scoring; flight-hour checks; result emails |
+| [CabinCrewCareer](https://github.com/Hyzmyn/CabinCrewCareer) – flight attendant recruitment (graduation project) | ASP.NET Core 8, Clean Architecture, CQRS, EF Core, SQL Server | **Team leader**: planned and assigned work, managed the database environments, defined the AI document-check flows, supported frontend and backend. Hands-on: owned the online exam module: tests, questions and sessions APIs; Excel question import; audio on Firebase/Cloudinary; speaking scoring; re-marking requests; round progression with benchmark scoring; flight-hour checks; result emails |
 | [On-Demand-Tutor](https://github.com/KienQuocVn/On-Demand-Tutor) | ASP.NET Core, Razor Pages | VNPay payment integration, JWT fixes, tutor salary calculation and month-end processing |
 | [SWP_DiamondShopSystem](https://github.com/Hyzmyn/SWP_DiamondShopSystem) | ASP.NET, Repository pattern | Warranty and product repositories/services; customer storefront: login, cart, discounts, checkout, order history, wallet points, search, price-rate management |
 | [FE-RoomieHub](https://github.com/hainguyen130103/FE-RoomieHub) | React, Vite | Profile and survey, post and roommate-post CRUD, package page, auth fixes |
