@@ -32,6 +32,27 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
 
+## 💼 Work Experience
+
+### Full Stack Developer (promoted from Intern) · Lucern AI · Sep 2025 – Present
+
+**Tameco ERP** — multi-tenant ERP with integrated AI for small and medium construction companies, in production use at a client company.
+<br>
+<img src="https://skillicons.dev/icons?i=react,ts,vite,python,fastapi,postgres,githubactions" alt="React, TypeScript, Vite, Python, FastAPI, PostgreSQL, GitHub Actions" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
+
+- **AI document inbox:** AI reads AR/AP invoices and shows a confidence level for each extracted field next to the PDF for human review; batch upload queue; inline editing of line items and tax tables.
+- **Approval workflow & inventory:** document status flow (draft → pending → approved), admin approval APIs, CRUD and inventory APIs for materials, projects and stock movements.
+- **Supplier price list import:** 4-step Excel import (map columns, preview, summary) that blocks invalid and duplicate rows before they reach the backend.
+- **Security:** role-based access control with role and scope assignment; found and fixed a cross-tenant data leak.
+- **AI-agent workflow:** features delivered with Claude Code — specs and acceptance criteria first, review of agent-written pull requests, verification against a running stack, CI gates before merge.
+- **Testing:** unit tests and Playwright end-to-end tests against a running stack.
+
+Also at Lucern AI: a logistics management system (React + TypeScript, Node.js, REST APIs with JWT and role-based authorization, Jest, GitHub Actions); mentoring interns and writing technical documentation.
+
+> Company repositories are private; happy to walk through the architecture and my work in an interview.
+
 ## 📂 Projects I contributed to
 
 | Project | Stack | What I built |
