@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
 
+## 🏅 Certifications
+
+[![HackerRank Problem Solving (Intermediate)](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7c2774a6ac60)
+
 ## 💼 Work Experience
 
 ### Full Stack Developer (promoted from Intern) · Lucern AI · Sep 2025 – Present
